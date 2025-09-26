@@ -1,3 +1,10 @@
-streamlit==1.37.0
-pandas>=2.1
-streamlit-authenticator>=0.3.2
+streamlit
+pandas
+geopy
+folium
+streamlit-folium
+streamlit-calendar
+googlemaps
+holidays
+bcrypt
+supabase
